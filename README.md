@@ -13,4 +13,6 @@ Every step I take is a leap forward in my learning journey, and I'm excited to s
 ## Interest 
 Allow me to introduce myself as a person with diverse interests, but let's focus on the ones that matter the most to me. In the realm of computers, I find games, optimization, and rendering techniques incredibly captivating. Additionally, I have a keen eye for design, drawing, and similar artistic endeavors. However, my greatest passion lies in Parkour, as it allows me to explore the real world and push my limits without fear of any challenge being too daunting. Nothing can hold me back when it comes to trying new things and embracing the art of movement!
 
-[![]()](https://www.youtube.com/channel/UC3mUg0X1zrp-xnoNbtFm7bQ)
+[![](https://github.com/Allkams/Allkams/blob/main/img/Youtube.png)](https://www.youtube.com/channel/UC3mUg0X1zrp-xnoNbtFm7bQ)
+[![](https://github.com/Allkams/Allkams/blob/main/img/Twitter.png)](https://twitter.com/Allkams)
+[![](https://github.com/Allkams/Allkams/blob/main/img/LinkedIn.png)](https://www.linkedin.com/in/alexander-marklund-95b0b821b/)
