@@ -2,7 +2,7 @@
 I'm Alexander, but you may know me as **Allkams** in the online world. Currently, I'm a student pursuing a bachelor's degree in computer game programming at Luleå University of Technology (LTU). My area of expertise lies in C++ and C#, which I apply while creating games and taking up exciting challenges. I try to frequently participate in GameJams, and on top of that, I'm running a YouTube series, where I'm building my very own Rendering Engine called "SpectraWise".
 
 ## Cool Projects
-[SpectraWise Engine](https://github.com/Allkams/SpectraWise-Engine): A OpenGL renderer made with C++ and CMake.
+[SpectraWise Engine](https://github.com/Allkams/SpectraWise-Engine): A OpenGL renderer made with C++ and CMake.  
 [3D Fluid Simulation](https://github.com/Allkams/Fluid-Simulation-3D): A Smooth Particle Hydrodynamics implementation, made with SpectraWise Engine.
 
 ... More on the way 😎
