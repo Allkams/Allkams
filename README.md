@@ -3,6 +3,7 @@ I'm Alexander, but you may know me as **Allkams** in the online world. Currently
 
 ## Cool Projects
 [SpectraWise Engine](https://github.com/Allkams/SpectraWise-Engine): A OpenGL renderer made with C++ and CMake.
+[3D Fluid Simulation](https://github.com/Allkams/Fluid-Simulation-3D): A Smooth Particle Hydrodynamics implementation, made with SpectraWise Engine.
 
 ... More on the way 😎
 
