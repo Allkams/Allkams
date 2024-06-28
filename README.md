@@ -1,17 +1,31 @@
 # Greetings! 👋
-I'm Alexander, but you may know me as **Allkams** in the online world. Currently, I'm a student pursuing a bachelor's degree in computer game programming at Luleå University of Technology (LTU). My area of expertise lies in C++ and C#, which I apply while creating games and taking up exciting challenges. I try to frequently participate in GameJams, and on top of that, I'm running a YouTube series, where I'm building my very own Rendering Engine called "SpectraWise".
+Welcome to my GitHub profile! My name is Alexander, known online as Allkams. I am pursuing a bachelor's degree in Computer Science with a specialization in Computer Game Programming. My primary expertise is in C++ and C#, which I leverage to create engaging games and tackle complex programming challenges.
 
-## Cool Projects
-[SpectraWise Engine](https://github.com/Allkams/SpectraWise-Engine): A OpenGL renderer made with C++ and CMake.  
-[3D Fluid Simulation](https://github.com/Allkams/Fluid-Simulation-3D): A Smooth Particle Hydrodynamics implementation, made with SpectraWise Engine.
+I actively participate in GameJams to hone my skills and collaborate with the game development community. Additionally, I am developing a custom Rendering Engine, SpectraWise, where I explore advanced graphics programming and optimization solutions using OpenGL, with plans to incorporate Vulkan.
 
+Feel free to explore my repositories and projects. Let's connect and collaborate to push the boundaries of programming!
+
+## 💼 Skills
+- Programming Languages: C++, C#, Python
+- Game Development: Unity, Unreal Engine
+- Graphics Programming: OpenGL, Vulkan (learning)
+- Tools: CMake, Blender, Visual Studio Code
+- Management tools: Notion, Hansoft
+- Documentation tools: Confluence
+- Version Controls: Git, Github, Perforce
+- 3D Printing/Modeling: Bambulab X1 Carbon
+
+## 📂 Cool Projects
+[SpectraWise Engine](https://github.com/Allkams/SpectraWise-Engine): A OpenGL renderer made with C++ and CMake. (Ongoing project)  
+[3D Fluid Simulation](https://github.com/Allkams/Fluid-Simulation-3D): A Smooth Particle Hydrodynamics implementation, made with SpectraWise Engine. (Ongoing project)  
+[Sparkle](https://github.com/berwil-1/SparklePico): 64x64 Led Matrix Multimedia device that got developed over the summer by me and two classmates using a Raspberry Pi Pico W and a mobile app.  
 ... More on the way 😎
 
-## Current Learnings
-Right now, I'm immersed in the world of CMake and OpenGL rendering. I'm deeply fascinated by graphical rendering and aspire to develop a rendering engine using OpenGL and Vulkan.  
+## 📚 Current Learnings 
+At present, I am delving into the intricacies of CMake and OpenGL rendering. My journey into graphical rendering has been deeply fascinating, and I am committed to mastering these technologies. My current focus is on developing a robust rendering engine using OpenGL, with future plans to incorporate Vulkan for enhanced performance and capabilities.
 
-## Interest 
-Allow me to introduce myself as a person with diverse interests, but let's focus on the ones that matter the most to me. In the realm of computers, I find games, optimization, and rendering techniques incredibly captivating. Additionally, I like to play around with design, drawing, and similar artistic endeavors. However, my greatest passion lies in Parkour and Movement, as it allows me to explore the real world and push my limits without fear of any challenge being too daunting.
+## 🎨 Interest 
+While my professional focus is on computer game programming, my interests span a variety of fields. In the realm of computing, I am particularly captivated by game development, optimization, and advanced rendering techniques. Beyond the digital world, I enjoy creative pursuits such as design and drawing, which complement my technical skills. My greatest passion, however, lies in Parkour and Movement. This discipline allows me to explore the physical world, challenge my limits, and embrace every obstacle as an opportunity for growth.
 
 [![](https://github.com/Allkams/Allkams/blob/main/img/Youtube.png)](https://www.youtube.com/channel/UC3mUg0X1zrp-xnoNbtFm7bQ)
 [![](https://github.com/Allkams/Allkams/blob/main/img/Twitter.png)](https://twitter.com/Allkams)
