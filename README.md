@@ -1,5 +1,5 @@
 # Greetings! 👋
-Welcome to my GitHub profile! My name is Alexander, known online as Allkams. I am pursuing a bachelor's degree in Computer Science with a specialization in Computer Game Programming. My primary expertise is in C++ and C#, which I leverage to create engaging games and tackle complex programming challenges.
+Welcome to my GitHub profile! My name is Alexander, known online as Allkams. I have a bachelor's degree in Computer Science with a specialization in Computer Game Programming. My primary expertise is in C++ and C#, which I leverage to create engaging games and tackle complex programming challenges.
 
 I actively participate in GameJams to hone my skills and collaborate with the game development community. Additionally, I am developing a custom Rendering Engine, SpectraWise, where I explore advanced graphics programming and optimization solutions using OpenGL, with plans to incorporate Vulkan.
 
